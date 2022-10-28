@@ -1,0 +1,28 @@
+{
+    "plants": [
+      {
+        "name": "zonnebloem",
+        "water": "medium",
+        "sunlight": "high",
+        "waterDate": "2022-10-27",
+        "daysUntilWater": 3,
+        "id": 1
+      },
+      {
+        "name": "roos",
+        "water": "high",
+        "sunlight": "high",
+        "waterDate": "2022-10-28",
+        "daysUntilWater": 7,
+        "id": 2
+      },
+      {
+        "name": "petunia",
+        "water": "low",
+        "sunlight": "low",
+        "waterDate": "2022-10-28",
+        "daysUntilWater": 5,
+        "id": 3
+      }
+    ]
+  }
